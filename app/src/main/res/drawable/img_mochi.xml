@@ -1,0 +1,23 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+  <path android:fillColor="#FFD8E4" android:pathData="M100,100m-90,0a90,90 0 1,0 180,0a90,90 0 1,0 -180,0"/>
+  <path android:fillColor="#FFFFFF" android:pathData="M55,50 L75,90 L40,80 Z"/>
+  <path android:fillColor="#FFB3C6" android:pathData="M60,58 L72,86 L48,80 Z"/>
+  <path android:fillColor="#FFFFFF" android:pathData="M145,50 L160,80 L125,90 Z"/>
+  <path android:fillColor="#FFB3C6" android:pathData="M140,58 L152,80 L128,86 Z"/>
+  <path android:fillColor="#FFFFFF" android:pathData="M100,60 C138,60 152,80 152,112 C152,142 132,158 100,158 C68,158 48,142 48,112 C48,80 62,60 100,60 Z"/>
+  <path android:fillColor="#3A86FF" android:pathData="M78,102m-9,0a9,12 0 1,0 18,0a9,12 0 1,0 -18,0"/>
+  <path android:fillColor="#1D3557" android:pathData="M78,102m-5,0a5,8 0 1,0 10,0a5,8 0 1,0 -10,0"/>
+  <path android:fillColor="#FFFFFF" android:pathData="M75,98m-3,0a3,4 0 1,0 6,0a3,4 0 1,0 -6,0"/>
+  <path android:fillColor="#3A86FF" android:pathData="M122,102m-9,0a9,12 0 1,0 18,0a9,12 0 1,0 -18,0"/>
+  <path android:fillColor="#1D3557" android:pathData="M122,102m-5,0a5,8 0 1,0 10,0a5,8 0 1,0 -10,0"/>
+  <path android:fillColor="#FFFFFF" android:pathData="M119,98m-3,0a3,4 0 1,0 6,0a3,4 0 1,0 -6,0"/>
+  <path android:fillColor="#FF7A8A" android:pathData="M100,118 C103,118 105,121 100,125 C95,121 97,118 100,118 Z"/>
+  <path android:strokeColor="#555555" android:strokeWidth="2" android:strokeLineCap="round" android:pathData="M100,125 C95,132 88,130 85,128 M100,125 C105,132 112,130 115,128"/>
+  <path android:fillColor="#FFB3C6" android:pathData="M62,118m-8,0a8,5 0 1,0 16,0a8,5 0 1,0 -16,0"/>
+  <path android:fillColor="#FFB3C6" android:pathData="M138,118m-8,0a8,5 0 1,0 16,0a8,5 0 1,0 -16,0"/>
+  <path android:strokeColor="#888888" android:strokeWidth="1.5" android:strokeLineCap="round" android:pathData="M55,115 L35,112 M52,122 L32,125 M145,115 L165,112 M148,122 L168,125"/>
+</vector>

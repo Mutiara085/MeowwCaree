@@ -2,4 +2,13 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="bg_cream">#FAF7F2</color>
+    <color name="primary_orange">#FF8331</color>
+    <color name="primary_orange_dark">#E56E1E</color>
+    <color name="primary_orange_light">#FFF0E5</color>
+    <color name="card_bg">#FFFFFF</color>
+    <color name="chip_bg">#FFE8D6</color>
+    <color name="text_primary">#2B2B2B</color>
+    <color name="text_secondary">#7A7A7A</color>
+    <color name="search_bg">#FFFFFF</color>
 </resources>
